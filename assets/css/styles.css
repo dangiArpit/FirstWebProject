@@ -1,0 +1,18 @@
+.withbg
+{
+  background-image: url(../images/bg5.jpg);
+  background-size: cover;
+}
+ .arpit-color
+{
+  background-color: #f5fafd;
+} 
+.my-color
+{
+  background-color : rgb(93, 161, 182);
+}
+.my-align
+{
+  text-align: right;
+}
+
